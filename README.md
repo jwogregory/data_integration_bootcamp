@@ -2,3 +2,5 @@
 learning about github
 
 step 1: update the readme file
+
+step 2: be awesome John
